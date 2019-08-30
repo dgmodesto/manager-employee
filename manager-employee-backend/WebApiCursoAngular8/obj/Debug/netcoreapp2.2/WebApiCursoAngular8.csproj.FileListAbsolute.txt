@@ -1,0 +1,14 @@
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\bin\Debug\netcoreapp2.2\WebApiCursoAngular8.deps.json
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\bin\Debug\netcoreapp2.2\WebApiCursoAngular8.runtimeconfig.json
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\bin\Debug\netcoreapp2.2\WebApiCursoAngular8.runtimeconfig.dev.json
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\bin\Debug\netcoreapp2.2\WebApiCursoAngular8.dll
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.csprojAssemblyReference.cache
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.csproj.CoreCompileInputs.cache
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.RazorAssemblyInfo.cache
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.RazorAssemblyInfo.cs
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.AssemblyInfoInputs.cache
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.AssemblyInfo.cs
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.RazorTargetAssemblyInfo.cache
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\bin\Debug\netcoreapp2.2\WebApiCursoAngular8.pdb
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.dll
+C:\labs\DotNetCore\WebApiCursoAngular8\WebApiCursoAngular8\obj\Debug\netcoreapp2.2\WebApiCursoAngular8.pdb

@@ -1,0 +1,57 @@
+<div class="d-flex justify-content-between">
+  <h4>Edit Department</h4>
+  <button mat-button (click)="onClose()">
+    <mat-icon>close</mat-icon>
+  </button>
+</div>
+
+<div style="overflow: auto; height: 450px;">
+  <form #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+    <div class="mt-3 input-group">
+      <div class="input-group-prepend">
+        <span class="input-group-text">Department Id</span>
+      </div>
+      <input
+        readonly="readonly"
+        type="text"
+        required
+        minlength="2"
+        class="form-control"
+        name="DepartmentID"
+        #DepartmentID="ngModel"
+        [(ngModel)]="service.formData.departmentID"
+      />
+    </div>
+
+    <div class="mt-3 input-group">
+      <div class="input-group-prepend">
+        <span class="input-group-text">Department Name</span>
+      </div>
+      <input
+        type="text"
+        required
+        minlength="2"
+        class="form-control"
+        name="DepartmentName"
+        #DepartmentName="ngModel"
+        [(ngModel)]="service.formData.departmentName"
+      />
+    </div>
+    <div
+      class="text-left text-danger"
+      *ngIf="DepartmentName.invalid && DepartmentName.touched"
+    >
+      Please enter Department Name.
+    </div>
+
+    <button
+      class="mt-3"
+      mat-raised-button
+      color="primary"
+      type="submit"
+      [disabled]="form.invalid"
+    >
+      Update Department
+    </button>
+  </form>
+</div>
